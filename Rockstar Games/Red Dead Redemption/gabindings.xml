@@ -1,0 +1,296 @@
+<GameActionBindings>
+    <DigitalActions>
+        <DigitalGameAction ActionName="@ARM_WRESTLING.CAMERA_TOGGLE">
+            <MKb_Primary BindingType="KeyboardButton" Input="46" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@ARM_WRESTLING.SKIP_HELP">
+            <MKb_Primary BindingType="KeyboardButton" Input="16" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@ARM_WRESTLING.SLAM">
+            <MKb_Primary BindingType="KeyboardButton" Input="31" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@ARM_WRESTLING.WRESTLE">
+            <MKb_Primary BindingType="MouseButton" Input="0" />
+            <MKb_Secondary BindingType="KeyboardButton" Input="57" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.ACCEPT_INSURANCE">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.DOUBLE_DOWN">
+            <MKb_Primary BindingType="KeyboardButton" Input="32" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.HIT">
+            <MKb_Primary BindingType="KeyboardButton" Input="30" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.REJECT_INSURANCE">
+            <MKb_Primary BindingType="KeyboardButton" Input="33" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.SKIP_DEAL">
+            <MKb_Primary BindingType="KeyboardButton" Input="157" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.SPLIT">
+            <MKb_Primary BindingType="KeyboardButton" Input="45" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@BLACKJACK.STAND">
+            <MKb_Primary BindingType="KeyboardButton" Input="31" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@CAMERA.LOOK_BACK">
+            <MKb_Primary BindingType="KeyboardButton" Input="46" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@CAMERA.SWITCH_LEFT">
+            <MKb_Primary BindingType="KeyboardButton" Input="45" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@DETONATOR.DETONATE">
+            <MKb_Primary BindingType="KeyboardButton" Input="57" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@DETONATOR.LEAVE">
+            <MKb_Primary BindingType="KeyboardButton" Input="18" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@DETONATOR.LOOK_AT_TARGET">
+            <MKb_Primary BindingType="KeyboardButton" Input="47" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@DETONATOR.SELECT_LEFT">
+            <MKb_Primary BindingType="KeyboardButton" Input="30" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@DETONATOR.SELECT_RIGHT">
+            <MKb_Primary BindingType="KeyboardButton" Input="32" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.COVER">
+            <MKb_Primary BindingType="KeyboardButton" Input="16" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.CROUCH">
+            <MKb_Primary BindingType="KeyboardButton" Input="29" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.INTERACT">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.JUMP">
+            <MKb_Primary BindingType="KeyboardButton" Input="57" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.MELEE_BLOCK">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.MELEE_SPECIAL">
+            <MKb_Primary BindingType="KeyboardButton" Input="33" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@FOOT.SPRINT">
+            <MKb_Primary BindingType="KeyboardButton" Input="42" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.BRAKE">
+            <MKb_Primary BindingType="KeyboardButton" Input="29" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.DEADEYE">
+            <MKb_Primary BindingType="MouseButton" Input="2" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.DEADEYE_PAINT">
+            <MKb_Primary BindingType="KeyboardButton" Input="16" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.FIRE">
+            <MKb_Primary BindingType="MouseButton" Input="0" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.INVENTORY">
+            <MKb_Primary BindingType="KeyboardButton" Input="48" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.LOOK_AT">
+            <MKb_Primary BindingType="KeyboardButton" Input="47" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.MOVE_BACK">
+            <MKb_Primary BindingType="KeyboardButton" Input="31" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.MOVE_FORWARD">
+            <MKb_Primary BindingType="KeyboardButton" Input="17" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.MOVE_LEFT">
+            <MKb_Primary BindingType="KeyboardButton" Input="30" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.MOVE_RIGHT">
+            <MKb_Primary BindingType="KeyboardButton" Input="32" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.RELOAD">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.TARGET">
+            <MKb_Primary BindingType="MouseButton" Input="1" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.USE">
+            <MKb_Primary BindingType="KeyboardButton" Input="18" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.USE2">
+            <MKb_Primary BindingType="KeyboardButton" Input="33" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.WHISTLE">
+            <MKb_Primary BindingType="KeyboardButton" Input="35" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@GENERIC.ZOOM_RADAR">
+            <MKb_Primary BindingType="KeyboardButton" Input="20" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSE.JUMP">
+            <MKb_Primary BindingType="KeyboardButton" Input="57" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSE.SPUR">
+            <MKb_Primary BindingType="KeyboardButton" Input="42" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.AIM">
+            <MKb_Primary BindingType="KeyboardButton" Input="42" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.AIM_LEFT">
+            <MKb_Primary BindingType="KeyboardButton" Input="30" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.AIM_RIGHT">
+            <MKb_Primary BindingType="KeyboardButton" Input="32" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.LOOK_AROUND_DOWN">
+            <MKb_Primary BindingType="KeyboardButton" Input="208" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.LOOK_AROUND_LEFT">
+            <MKb_Primary BindingType="KeyboardButton" Input="203" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.LOOK_AROUND_RIGHT">
+            <MKb_Primary BindingType="KeyboardButton" Input="205" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.LOOK_AROUND_UP">
+            <MKb_Primary BindingType="KeyboardButton" Input="200" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.RELEASE">
+            <MKb_Primary BindingType="KeyboardButton" Input="57" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.SKIP_TO_PLAYER">
+            <MKb_Primary BindingType="KeyboardButton" Input="16" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.SWING_BACKWARD">
+            <MKb_Primary BindingType="KeyboardButton" Input="31" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.SWING_FORWARD">
+            <MKb_Primary BindingType="KeyboardButton" Input="17" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.SWITCH_SIDES">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@HORSESHOES.ZOOM_AT_STAKE">
+            <MKb_Primary BindingType="KeyboardButton" Input="18" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@LIARS_DICE.ANTE">
+            <MKb_Primary BindingType="KeyboardButton" Input="57" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@LIARS_DICE.CHANGE_DICE_DOWN">
+            <MKb_Primary BindingType="KeyboardButton" Input="208" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@LIARS_DICE.CHANGE_DICE_UP">
+            <MKb_Primary BindingType="KeyboardButton" Input="200" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@LIARS_DICE.SPOT_ON">
+            <MKb_Primary BindingType="KeyboardButton" Input="32" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MAP.OPEN">
+            <MKb_Primary BindingType="KeyboardButton" Input="50" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.DECREASE_BET">
+            <MKb_Primary BindingType="KeyboardButton" Input="31" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.INCREASE_BET">
+            <MKb_Primary BindingType="KeyboardButton" Input="17" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.LOOK_AROUND">
+            <MKb_Primary BindingType="KeyboardButton" Input="56" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.LOOK_AT_DEALER">
+            <MKb_Primary BindingType="KeyboardButton" Input="18" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.LOOK_AT_HAND">
+            <MKb_Primary BindingType="KeyboardButton" Input="42" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.SHOW_HELP">
+            <MKb_Primary BindingType="KeyboardButton" Input="15" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.SKIP_HELP">
+            <MKb_Primary BindingType="KeyboardButton" Input="16" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@MINIGAME.SKIP_TO_PLAYER">
+            <MKb_Primary BindingType="KeyboardButton" Input="29" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@POKER.CHEAT">
+            <MKb_Primary BindingType="KeyboardButton" Input="21" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@POKER.FOLD">
+            <MKb_Primary BindingType="KeyboardButton" Input="33" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@RADIAL_MENU.SHOW_HIDE">
+            <MKb_Primary BindingType="KeyboardButton" Input="15" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+        <DigitalGameAction ActionName="@WAGON.SWITCH_SEAT">
+            <MKb_Primary BindingType="KeyboardButton" Input="19" />
+            <MKb_Secondary BindingType="None" Input="-1" />
+        </DigitalGameAction>
+    </DigitalActions>
+</GameActionBindings>

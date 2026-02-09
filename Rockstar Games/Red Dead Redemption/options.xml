@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__LoadedOptions v="70.0">
+	<gameplayOptions v="70.0">
+		<bAutoSaveDisabled value="false"/>
+		<bGoldenGuns value="false"/>
+	</gameplayOptions>
+	<displayOptions v="70.0">
+		<fBrightness value="0.500000"/>
+		<fContrast value="0.500000"/>
+		<fSaturation value="0.500000"/>
+		<Subtitles value="1"/>
+		<fSubtitleScale value="1.000000"/>
+		<fObjectiveScale value="1.000000"/>
+		<fHelpScale value="1.000000"/>
+		<bRadarOn value="true"/>
+		<bRouteOn value="true"/>
+	</displayOptions>
+	<controllerOptions v="70.0">
+		<bInvertedY value="false"/>
+		<bSwapCamX value="false"/>
+		<fScalarSensitivity value="0.500000"/>
+		<fLeftStickDeadzone value="0.250000"/>
+		<fRightStickDeadzone value="0.250000"/>
+		<iCombatMode value="0"/>
+		<bRumble value="true"/>
+		<iHorseCameraRelativity value="0"/>
+		<bSwapButtons value="false"/>
+		<bSouthPaw value="false"/>
+		<bAutoCenter value="true"/>
+	</controllerOptions>
+	<kbMouseOptions v="70.0">
+		<bInvertedY value="false"/>
+		<bSwapCamX value="false"/>
+		<fMouseScalarSensitivity value="0.500000"/>
+		<fADSScalarSensitivity value="0.500000"/>
+		<iHorseCameraRelativity value="0"/>
+		<bHoldSprint value="true"/>
+		<bHoldSprintVehicle value="false"/>
+	</kbMouseOptions>
+	<audioOptions v="70.0">
+		<fSFXVolume value="0.600000"/>
+		<fMusicVolume value="0.600000"/>
+		<bHeadphones value="true"/>
+	</audioOptions>
+	<iMPCombatMode value="0"/>
+	<bMPKillEffect value="true"/>
+	<iMPNameOverHeadDetail value="0"/>
+	<bSkipSocialClub value="false"/>
+	<bVisitedSocialClub value="false"/>
+</rage__LoadedOptions>

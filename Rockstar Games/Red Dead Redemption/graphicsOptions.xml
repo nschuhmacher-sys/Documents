@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__GraphicsOptions v="70.0">
+	<Fullscreen value="true"/>
+	<Monitor value="1"/>
+	<ResolutionX value="1600"/>
+	<ResolutionY value="900"/>
+	<RefreshRate value="75.000000"/>
+	<FrameRateLimit value="4"/>
+	<Vsync value="0"/>
+	<TripleBuffer value="false"/>
+	<DynamicResolution value="false"/>
+	<DynamicResolutionTargetFramerate value="1"/>
+	<DynamicResolutionMinScaleIndex value="5"/>
+	<MinAnisotropicFiltering value="16"/>
+	<MotionBlurStyle value="2"/>
+	<MotionBlurStrength value="1.000000"/>
+	<ShadowQuality value="3"/>
+	<ShadowSoftness value="3"/>
+	<ShadowBlend value="2"/>
+	<WorldStreamingRadius value="200.000000"/>
+	<TerrainStreamingFactor value="10.000000"/>
+	<TreeLevelOfDetail value="3.000000"/>
+	<TreeImposterHighLodStreamingDistance value="2048.000000"/>
+	<GrassStreamingDistance value="500.000000"/>
+	<bFocusPaused value="true"/>
+	<bConstrainMouse value="false"/>
+	<HDR value="false"/>
+	<PeakBrightness value="900.000000"/>
+	<PaperWhite value="300.000000"/>
+	<aaAntiAliasing value="3"/>
+	<FSR3UpscalingQuality value="0"/>
+	<FSR3AdditionalSharpness value="0.000000"/>
+	<NVIDIAReflex value="1"/>
+	<DLSSUpscalingQuality value="0"/>
+	<DLSSFrameGeneration value="0"/>
+</rage__GraphicsOptions>

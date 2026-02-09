@@ -1,0 +1,461 @@
+[2025-07-10 15:22:18.925] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2025-07-10 15:22:18.942] [DISPLAY] [Main ] [dx12] Retrieving D3D12 graphics info
+[2025-07-10 15:22:19.250] [DISPLAY] [Main ] [launcher] Opening log file.
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=1174180 -steamLocation "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2" @args.txt
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo] P4 Version: Change 54189093
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo] RGL Branch: release_03
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo] Version:    1.0.103.2507
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo] Parameters:
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     -skipPatcherCheck
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     -steamAppId=1174180
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     -steamLocation
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startupinfo]     @args.txt
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startup] Initial Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:19.253] [DISPLAY] [Main ] [startup] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2025-07-10 15:22:19.260] [DISPLAY] [Main ] [packfile] Initialize 'Launcher.rpf' - succeeded
+[2025-07-10 15:22:19.260] [DISPLAY] [Main ] [localisation] Language updated to: 0
+[2025-07-10 15:22:19.287] [DISPLAY] [Main ] [external] Creating Steam min mode launch
+[2025-07-10 15:22:19.292] [DISPLAY] [Main ] [external] Steam App Id: 1174180
+[2025-07-10 15:22:19.292] [DISPLAY] [Main ] [external] Steam Location: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:19.293] [DISPLAY] [Main ] [metadatamanager] Read external Steam metadata: rdr2
+[2025-07-10 15:22:19.294] [DISPLAY] [Main ] [external] App: rdr2
+[2025-07-10 15:22:19.300] [DISPLAY] [Main ] [environment] SetEnvironment: prod
+[2025-07-10 15:22:19.302] [ ERROR ] [Main ] [fileutils] Failed to delete directory: C:\Users\nicka\OneDrive\Documents\Rockstar Games\Red Dead Redemption\CrashLogs\attachments
+[2025-07-10 15:22:19.302] [ ERROR ] [Main ] [fileutils] Failed to delete directory: C:\Users\nicka\OneDrive\Documents\Rockstar Games\Red Dead Redemption\CrashLogs\reports
+[2025-07-10 15:22:19.302] [DISPLAY] [Main ] [subsystem] Init phase 1
+[2025-07-10 15:22:19.303] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\RockstarService.exe
+[2025-07-10 15:22:19.305] [DISPLAY] [Main ] [svc] Service version: 1.0.103.2507 (1.0.103.2507)
+[2025-07-10 15:22:19.305] [DISPLAY] [Main ] [svc] Starting service (attempt 1 / 3)...
+[2025-07-10 15:22:19.388] [DISPLAY] [Main ] [titlestorage] Installed titles:
+[2025-07-10 15:22:19.388] [DISPLAY] [Main ] [titlestorage]  Title                             Progress               Version              Location                                                    
+[2025-07-10 15:22:19.401] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:19.405] [DISPLAY] [Main ] [subsystem] Initializing group 0...
+[2025-07-10 15:22:19.405] [DISPLAY] [Main ] [subsystem] Init phase 2
+[2025-07-10 15:22:19.405] [DISPLAY] [Main ] [subsystem] Starting systems...
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [steam_api] SetSteamLanguage(english) = 0
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [minmode] Overriding language from external game launch: en-US
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [localisation] Language updated to: 0
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [subsystem] Starting diag...
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [fileutils] Checking local versions...
+[2025-07-10 15:22:19.459] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:19.460] [DISPLAY] [Main ] [fileutils] Checking RGL version...
+[2025-07-10 15:22:19.460] [DISPLAY] [Main ] [fileutils] Version: 2.4.0.94 | 1.0.103.2507 | FFP
+[2025-07-10 15:22:19.460] [DISPLAY] [Main ] [subsystem] Starting net...
+[2025-07-10 15:22:19.467] [DISPLAY] [Main ] [subsystem] Assigning pools...
+[2025-07-10 15:22:19.467] [DISPLAY] [Main ] [subsystem] Initializing engine...
+[2025-07-10 15:22:19.468] [DISPLAY] [Main ] [subsystem] Initializing group 1...
+[2025-07-10 15:22:19.490] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2025-07-10 15:22:19.661] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2025-07-10 15:22:19.663] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.26100) >= 10
+[2025-07-10 15:22:19.808] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2025-07-10 15:22:19.830] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2025-07-10 15:22:20.013] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2025-07-10 15:22:20.013] [DISPLAY] [Workr] [startup] Skipping DLL preload.
+[2025-07-10 15:22:20.013] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2025-07-10 15:22:20.013] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2025-07-10 15:22:20.013] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [services] Obtained NA-BAT
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [services] Parsed response from GetDefaultApps: 1 title(s), 1 branch(es)
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [titlemanager] Retrieved default title: launcher
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [titlemanager] Launcher tokens: BAT: false, NA-BAT: true
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2025-07-10 15:22:20.243] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2025-07-10 15:22:20.246] [DISPLAY] [Workr] [titleupdater] Doing chunk checks for launcher...
+[2025-07-10 15:22:20.495] [DISPLAY] [Workr] [titleupdater] Checked 61 chunk(s), 0 were empty, skipped 0 chunk(s) and 0 file(s)
+[2025-07-10 15:22:20.495] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2025-07-10 15:22:20.498] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2025-07-10 15:22:20.498] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2025-07-10 15:22:20.498] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:20.499] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Redistributables\SocialClub\Social-Club-Setup.exe
+[2025-07-10 15:22:20.500] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.4.0.94)
+[2025-07-10 15:22:20.500] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2025-07-10 15:22:20.500] [DISPLAY] [Workr] [launcher] Checking minimum SDK requirement
+[2025-07-10 15:22:20.500] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:20.619] [DISPLAY] [Workr] [launcher] Completed Pre-initialization tasks
+[2025-07-10 15:22:20.627] [DISPLAY] [Main ] [subsystem] Init phase 3
+[2025-07-10 15:22:20.627] [DISPLAY] [Main ] [subsystem] RGL Offline Assets path: C:\Program Files\Rockstar Games\Launcher\offline.pak
+[2025-07-10 15:22:20.627] [DISPLAY] [Main ] [subsystem] Intializing connection manager.
+[2025-07-10 15:22:20.629] [DISPLAY] [Main ] [subsystem] Initializing RAGE networking.
+[2025-07-10 15:22:20.754] [DISPLAY] [Main ] [rline_pc] Thu Jul 10 15:22:20 2025
+[2025-07-10 15:22:20.754] [DISPLAY] [Main ] [rline_pc] File System Initialized
+[2025-07-10 15:22:20.755] [DISPLAY] [Main ] [rline_pc] Version Info: 2.4.0.94
+[2025-07-10 15:22:20.755] [DISPLAY] [Main ] [rline_pc] JSON Interface initialized
+[2025-07-10 15:22:20.755] [DISPLAY] [Main ] [rline_pc] Internet manager initialized
+[2025-07-10 15:22:20.762] [DISPLAY] [Main ] [rline_pc] Social Club Data initialized
+[2025-07-10 15:22:20.762] [DISPLAY] [Main ] [rline_pc] Metadata initialized
+[2025-07-10 15:22:20.762] [DISPLAY] [Main ] [rline_pc] Achievement Manager initialized
+[2025-07-10 15:22:20.762] [DISPLAY] [Main ] [rline_pc] Player Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Gamer Pic Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Profile Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Presence Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Commerce Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Task Manager initialized
+[2025-07-10 15:22:20.763] [DISPLAY] [Main ] [rline_pc] Telemetry Manager initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Network interface initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Cloud Saves interface initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Multi-Factor Authentication initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Profanity filter initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Game Intent Manager initialized
+[2025-07-10 15:22:20.764] [DISPLAY] [Main ] [rline_pc] Launcher interface initialized
+[2025-07-10 15:22:20.765] [DISPLAY] [Main ] [rline_pc] Game/Launcher IPC initialized: 0
+[2025-07-10 15:22:20.765] [DISPLAY] [Main ] [rline_pc] Validating CEF directory: C:\Program Files\Rockstar Games\Social Club\
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc] Validating Social Club dependency versions: 
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  Social Club DLL (C:\Program Files\Rockstar Games\Social Club\socialclub.dll) - 2.4.0.94
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  Social Club Helper (C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe) - 2.4.0.94
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  Vulkan Renderer Layer (C:\Program Files\Rockstar Games\Social Club\SocialClubVulkanLayer.dll) - 2.4.0.94
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  D3D12 Renderer DLL (C:\Program Files\Rockstar Games\Social Club\SocialClubD3D12Renderer.dll) - 2.4.0.94
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  Chromium Embedded Framework (C:\Program Files\Rockstar Games\Social Club\libcef.dll) - 109.1.18.0
+[2025-07-10 15:22:20.849] [DISPLAY] [Main ] [rline_pc]  RGSC-Query Version: 0.0.0-development
+[2025-07-10 15:22:20.853] [DISPLAY] [Main ] [rline_pc] SDK fully initialized
+[2025-07-10 15:22:20.853] [DISPLAY] [Main ] [rline_pc] Setting Social Club UI scaling to 1.00
+[2025-07-10 15:22:20.854] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAIT_BROWSER_WINDOW'
+[2025-07-10 15:22:20.854] [DISPLAY] [Main ] [subsystem] Initializing group 2...
+[2025-07-10 15:22:20.868] [DISPLAY] [Workr] [libutil_sysinfo] Drive C:\ has 252.89 GB free, 476.83 GB total
+[2025-07-10 15:22:20.908] [DISPLAY] [Main ] [rline_pc] UpdateConnectionState :: Connection state changed from offline to online
+[2025-07-10 15:22:20.908] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_launcher_0
+[2025-07-10 15:22:21.021] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_4910_channel_0 (remoteProcessId 12764)
+[2025-07-10 15:22:21.038] [DISPLAY] [Main ] [rline_pc] Browser subprocess running and connected
+[2025-07-10 15:22:21.125] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'LOADING'
+[2025-07-10 15:22:21.125] [DISPLAY] [Main ] [rline_pc] RgscUi::LoadUrl() called with url 'https://rgl.rockstargames.com/launcher'
+[2025-07-10 15:22:21.125] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_4910_channel_1
+[2025-07-10 15:22:21.125] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_LOAD'
+[2025-07-10 15:22:21.578] [DISPLAY] [Workr] [dx12] Retrieving D3D12 graphics info
+[2025-07-10 15:22:21.639] [DISPLAY] [Workr] [sysinfo] System Configuration: 
+ CPU Info:
+  ID: Intel64 Family 6 Model 151 Stepping 2
+  Name: 12th Gen Intel(R) Core(TM) i7-12700KF
+  Clock Speed: 3.61 GHZ
+  Physical Cores: 12
+  Logical Cores: 20
+  SSE 4.1: enabled
+  SSE 4.2: enabled
+
+ Disk 0 (C:\)
+  Disk Type: NVMe
+  Bytes Free: 271534125056
+  Bytes Total: 511987150848
+
+Memory Info:
+ 17179869184 B
+ 16 GB
+
+ GPU 0
+  Description: NVIDIA GeForce RTX 3060
+  Capacity (Bytes): 12703498240
+  Display Capacity: 12.0 GB
+[2025-07-10 15:22:22.770] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_4910_channel_1 (remoteProcessId 19500)
+[2025-07-10 15:22:22.871] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_READY'
+[2025-07-10 15:22:22.871] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2025-07-10 15:22:22.871] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:22.872] [DISPLAY] [Admin] [external] Setting up steam title: rdr2
+[2025-07-10 15:22:22.872] [DISPLAY] [Admin] [external] Successfully setup title
+[2025-07-10 15:22:22.888] [DISPLAY] [Main ] [rline_pc] Handling action 'ScuiVersion' [EventId: 4]
+[2025-07-10 15:22:22.888] [DISPLAY] [Main ] [external] Client is ready to attempt a launch.
+[2025-07-10 15:22:22.888] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
+[2025-07-10 15:22:22.955] [DISPLAY] [Main ] [rline_pc] Handling action 'Geo' [EventId: 4]
+[2025-07-10 15:22:22.955] [DISPLAY] [Main ] [rline_pc] Handling action 'ExternIP' [EventId: 4]
+[2025-07-10 15:22:23.006] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'PAGE_READY'
+[2025-07-10 15:22:23.006] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'START_SIGN_IN'
+[2025-07-10 15:22:23.023] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'FINISHED'
+[2025-07-10 15:22:23.023] [DISPLAY] [Main ] [rline_pc] Finished loading Social Club UI
+[2025-07-10 15:22:23.023] [DISPLAY] [Main ] [launcher] Time to start up: 4140 ms
+[2025-07-10 15:22:23.027] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2025-07-10 15:22:23.060] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Invalid -> Auth
+[2025-07-10 15:22:23.060] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Invalid -> WaitForBrowser
+[2025-07-10 15:22:23.080] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-07-10 15:22:23.417] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_4910_channel_2
+[2025-07-10 15:22:23.434] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_4910_channel_2 (remoteProcessId 17104)
+[2025-07-10 15:22:23.974] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-07-10 15:22:24.334] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_4910_channel_3
+[2025-07-10 15:22:24.352] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_4910_channel_3 (remoteProcessId 17104)
+[2025-07-10 15:22:24.352] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_4910_channel_2
+[2025-07-10 15:22:24.674] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Active -> WaitForBrowser
+[2025-07-10 15:22:24.674] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-07-10 15:22:24.674] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-07-10 15:22:26.305] [DISPLAY] [Main ] [rline_pc] Queue download of profile avatar
+[2025-07-10 15:22:26.357] [DISPLAY] [Main ] [rline_pc] Saved profile for CobblerNick
+[2025-07-10 15:22:26.359] [DISPLAY] [Main ] [rline_pc] Syncing friends.
+[2025-07-10 15:22:26.359] [DISPLAY] [Main ] [rline_pc] Syncing privacy settings.
+[2025-07-10 15:22:26.765] [DISPLAY] [Main ] [rline_pc] Signed in online to profile: CobblerNick
+[2025-07-10 15:22:26.765] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Auth -> MainWindow
+[2025-07-10 15:22:26.765] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Active -> WaitForBrowser
+[2025-07-10 15:22:26.791] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2025-07-10 15:22:26.791] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2025-07-10 15:22:26.803] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 160,150 (1280 x 600)
+[2025-07-10 15:22:26.821] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2025-07-10 15:22:26.821] [DISPLAY] [Main ] [launcher] User 'CobblerNick' is now signed in
+[2025-07-10 15:22:26.849] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2025-07-10 15:22:26.849] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2025-07-10 15:22:26.850] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-07-10 15:22:26.850] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-07-10 15:22:26.851] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2025-07-10 15:22:26.964] [DISPLAY] [Main ] [rline_pc] Handling action 'EnableDownloading' [EventId: 2]
+[2025-07-10 15:22:26.964] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2025-07-10 15:22:27.016] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2025-07-10 15:22:27.370] [DISPLAY] [Main ] [rline_pc] Handling action 'UpdateSetting' [EventId: 2]
+[2025-07-10 15:22:27.370] [DISPLAY] [Main ] [scuicallbacks] Setting updated by frontend
+[2025-07-10 15:22:27.400] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: rdr2, default
+[2025-07-10 15:22:27.400] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
+[2025-07-10 15:22:27.400] [DISPLAY] [Main ] [external] Attempting external title launch...
+[2025-07-10 15:22:27.422] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
+[2025-07-10 15:22:27.452] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2025-07-10 15:22:27.455] [DISPLAY] [Admin] [external] Attempting Steam launch. User is 'CobblerNick'
+[2025-07-10 15:22:27.477] [DISPLAY] [Main ] [gamelaunch] Begin game launch: rdr2
+[2025-07-10 15:22:27.477] [DISPLAY] [Main ] [gamelaunch] Flags: 11
+[2025-07-10 15:22:27.477] [DISPLAY] [Main ] [gamelaunch] Path: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:27.482] [DISPLAY] [Main ] [telemetrymanager] Secondary platform is set to: 2
+[2025-07-10 15:22:27.483] [DISPLAY] [ 3472] [gamelaunch] Launch Folder: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:27.483] [DISPLAY] [ 3472] [gamelaunch] Launch Path: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe
+[2025-07-10 15:22:27.483] [DISPLAY] [ 3472] [fileutils] Checking version: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe
+[2025-07-10 15:22:27.514] [DISPLAY] [ 3472] [gamelaunch] RGL is up to date (current: 1.0.103.2507, minimum: 1.0.26.268)
+[2025-07-10 15:22:27.514] [DISPLAY] [ 3472] [fileutils] Checking version: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe
+[2025-07-10 15:22:27.516] [DISPLAY] [ 3472] [gamelaunch] Red Dead Redemption 2 is up to date (current: 1.0.1491.50, minimum: 1.0.1311.12)
+[2025-07-10 15:22:27.516] [DISPLAY] [ 3472] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-07-10 15:22:27.534] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_4910_channel_3
+[2025-07-10 15:22:28.918] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2025-07-10 15:22:28.918] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2025-07-10 15:22:29.259] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
+[2025-07-10 15:22:29.316] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2025-07-10 15:22:30.428] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for app 'rdr2'
+[2025-07-10 15:22:30.445] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for app 'rdr2'
+[2025-07-10 15:22:30.456] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for app 'rdr2' = enabled
+[2025-07-10 15:22:30.457] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for app 'rdr2'
+[2025-07-10 15:22:30.457] [DISPLAY] [Main ] [rline_pc] Identifying conflicts
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'KeyMappings'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1748567092) matches the results from the server's (1748567092)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1748567092) matches the results from the server (1748567092)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (0) matches the file version of the server (0)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (364) matches the file size of the server (364)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'KeyMappings' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'Player'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752168048) matches the results from the server's (1752168048)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168048) matches the results from the server (1752168048)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (45) matches the file version of the server (45)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (248) matches the file size of the server (248)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'Player' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'ProfileSettings'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1751934380) matches the results from the server's (1751934380)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751934380) matches the results from the server (1751934380)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (15) matches the file version of the server (15)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (2840) matches the file size of the server (2840)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'ProfileSettings' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30000'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1748748298) matches the results from the server's (1748748298)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1748748298) matches the results from the server (1748748298)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (1) matches the file version of the server (1)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (697504) matches the file size of the server (697504)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30000' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30001'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1751598125) matches the results from the server's (1751598125)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751598125) matches the results from the server (1751598125)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (13) matches the file version of the server (13)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (799760) matches the file size of the server (799760)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30001' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30002'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1750716109) matches the results from the server's (1750716109)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1750716109) matches the results from the server (1750716109)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (9) matches the file version of the server (9)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (773984) matches the file size of the server (773984)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30002' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30003'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1750986882) matches the results from the server's (1750986882)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1750986882) matches the results from the server (1750986882)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file version (4) matches the file version of the server (4)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file size (770464) matches the file size of the server (770464)
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30003' - Conflict State: 0
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30004'
+[2025-07-10 15:22:30.730] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752168049) matches the results from the server's (1752168049)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168049) matches the results from the server (1752168049)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's file version (6) matches the file version of the server (6)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's file size (778208) matches the file size of the server (778208)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30004' - Conflict State: 0
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30015'
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752168048) matches the results from the server's (1752168048)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168048) matches the results from the server (1752168048)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's file version (45) matches the file version of the server (45)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] The local file's file size (778208) matches the file size of the server (778208)
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30015' - Conflict State: 0
+[2025-07-10 15:22:30.732] [DISPLAY] [Main ] [rline_pc] Identifying conflicts completed with success (0 total conflicts) (code: 0)
+[2025-07-10 15:22:30.747] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
+[2025-07-10 15:22:30.747] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for app 'rdr2'
+[2025-07-10 15:22:30.765] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for app 'rdr2'
+[2025-07-10 15:22:30.765] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for app 'rdr2'
+[2025-07-10 15:22:30.766] [DISPLAY] [Main ] [rline_pc] Uploading files to the cloud.
+[2025-07-10 15:22:30.766] [DISPLAY] [Main ] [rline_pc] Uploading files completed with success (0 files uploaded) (code: 0)
+[2025-07-10 15:22:30.782] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for app 'rdr2'
+[2025-07-10 15:22:30.782] [DISPLAY] [Main ] [cloudsaveop] Getting update files for app 'rdr2'
+[2025-07-10 15:22:30.783] [DISPLAY] [Main ] [rline_pc] Downloading files from the cloud.
+[2025-07-10 15:22:30.783] [DISPLAY] [Main ] [rline_pc] Downloading files completed with success (0 files downloaded) (code: 0)
+[2025-07-10 15:22:30.799] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for app 'rdr2'
+[2025-07-10 15:22:30.799] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for app 'rdr2'
+[2025-07-10 15:22:30.799] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files
+[2025-07-10 15:22:30.799] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files completed with success (0 files deleted) (code: 0)
+[2025-07-10 15:22:30.815] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for app 'rdr2'
+[2025-07-10 15:22:30.815] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for app 'rdr2'
+[2025-07-10 15:22:30.815] [DISPLAY] [Main ] [rline_pc] Merging cloud files on disk.
+[2025-07-10 15:22:30.815] [DISPLAY] [Main ] [rline_pc] Merging cloud files completed with success (0 files merged) (code: 0)
+[2025-07-10 15:22:30.841] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for app 'rdr2'
+[2025-07-10 15:22:30.873] [DISPLAY] [net3 ] [audio] Valid Audio Device: true
+[2025-07-10 15:22:31.401] [DISPLAY] [ 3472] [gamelaunch] Launching game...
+[2025-07-10 15:22:31.401] [DISPLAY] [ 3472] [gamelaunch]  Path: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe
+[2025-07-10 15:22:31.401] [DISPLAY] [ 3472] [gamelaunch]  Command Line: "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\RDR2.exe" -skipPatcherCheck -steamLocation "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2" @args.txt -enableCrashpad -useSteam -steamAppId=1174180 -scCommerceProvider=4 @commandline.txt -fromRGL -scDiscordClientId=643897785271189524 -rglLanguage=en-US
+[2025-07-10 15:22:31.401] [DISPLAY] [ 3472] [gamelaunch]  Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2
+[2025-07-10 15:22:56.274] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_gameinst_0 (remoteProcessId 20044)
+[2025-07-10 15:23:02.417] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Idle in Red Dead Redemption 2
+[2025-07-10 15:24:02.392] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In camp
+[2025-07-10 15:25:02.396] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Story Mission in Epilogue, Part 2
+[2025-07-10 16:01:10.389] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Sauntering in Beechers Hope
+[2025-07-10 16:02:10.402] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In camp
+[2025-07-10 16:04:11.664] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Sauntering in the Wilderness
+[2025-07-10 16:05:26.539] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Sauntering in Grizzlies
+[2025-07-10 16:06:26.627] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In camp
+[2025-07-10 16:07:26.563] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Saint Denis
+[2025-07-10 16:08:26.564] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Strawberry
+[2025-07-10 16:09:26.568] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In camp
+[2025-07-10 16:10:26.581] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Valentine
+[2025-07-10 16:11:26.594] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Saint Denis
+[2025-07-10 16:12:26.594] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In camp
+[2025-07-10 16:14:41.272] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in the Wilderness
+[2025-07-10 16:15:41.289] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Grizzlies
+[2025-07-10 16:18:06.813] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Mount Hagen
+[2025-07-10 16:22:20.023] [DISPLAY] [Admin] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2025-07-10 16:22:20.339] [DISPLAY] [Admin] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2025-07-10 16:22:55.474] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Grizzlies
+[2025-07-10 16:23:55.501] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Strawberry
+[2025-07-10 16:24:55.523] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Saint Denis
+[2025-07-10 16:26:50.315] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In a shop
+[2025-07-10 16:30:55.575] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Saint Denis
+[2025-07-10 16:31:55.563] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In a shop
+[2025-07-10 16:32:55.578] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Saint Denis
+[2025-07-10 16:33:55.595] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In a shop
+[2025-07-10 16:34:55.599] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Moseying in Saint Denis
+[2025-07-10 16:35:55.606] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: In a shop
+[2025-07-10 16:36:55.604] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: Playing Red Dead Redemption 2: Tarrying in Saint Denis
+[2025-07-10 16:37:18.609] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_gameinst_0
+[2025-07-10 16:37:18.626] [DISPLAY] [Main ] [rline_pc] Closing remote browser window: 2
+[2025-07-10 16:37:18.626] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: 
+[2025-07-10 16:37:19.117] [DISPLAY] [ 3472] [gamelaunch] Game exited with code 0x0 (0)
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] Reading game exit file...
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] Updating exit code: 0x00000000
+[2025-07-10 16:37:19.153] [WARNING] [ 3472] [crashdetection] Not found: ERROR_FILE_HASH
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] No additional error information found.
+[2025-07-10 16:37:19.153] [WARNING] [ 3472] [crashdetection] Not found: ERROR_MESSAGE
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] No additional error message found.
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] Deleting game exit file...
+[2025-07-10 16:37:19.153] [DISPLAY] [ 3472] [crashdetection] Exit code 0x0 indicates a clean game shutdown
+[2025-07-10 16:37:19.169] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for app 'rdr2'
+[2025-07-10 16:37:19.186] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for app 'rdr2'
+[2025-07-10 16:37:19.187] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for app 'rdr2' = enabled
+[2025-07-10 16:37:19.187] [DISPLAY] [Main ] [cloudsaveop] Title access token was missing or expired, refreshing access for title 'rdr2'
+[2025-07-10 16:37:19.187] [DISPLAY] [Main ] [cloudsaveop] Retrieving access token for title 'rdr2' (13)
+[2025-07-10 16:37:19.614] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for app 'rdr2'
+[2025-07-10 16:37:19.614] [DISPLAY] [Main ] [rline_pc] Identifying conflicts
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'KeyMappings'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1748567092) matches the results from the server's (1748567092)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1748567092) matches the results from the server (1748567092)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (0) matches the file version of the server (0)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (364) matches the file size of the server (364)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'KeyMappings' - Conflict State: 0
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'Player'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752179831) was more recent than the server's (1752168048). Allowing local file modifications is disabled.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168048) matches the results from the server (1752168048)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (45) matches the file version of the server (45)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (248) matches the file size of the server (248)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'Player' - Conflict State: 3
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'ProfileSettings'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752175383) was more recent than the server's (1751934380). Allowing local file modifications is disabled.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751934380) matches the results from the server (1751934380)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (15) matches the file version of the server (15)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (2840) matches the file size of the server (2840)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'ProfileSettings' - Conflict State: 3
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30000'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1748748298) matches the results from the server's (1748748298)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1748748298) matches the results from the server (1748748298)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (1) matches the file version of the server (1)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (697504) matches the file size of the server (697504)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30000' - Conflict State: 0
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30001'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1751598125) matches the results from the server's (1751598125)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751598125) matches the results from the server (1751598125)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (13) matches the file version of the server (13)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (799760) matches the file size of the server (799760)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30001' - Conflict State: 0
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30002'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1750716109) matches the results from the server's (1750716109)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1750716109) matches the results from the server (1750716109)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (9) matches the file version of the server (9)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (773984) matches the file size of the server (773984)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30002' - Conflict State: 0
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30003'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1750986882) matches the results from the server's (1750986882)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1750986882) matches the results from the server (1750986882)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (4) matches the file version of the server (4)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (770464) matches the file size of the server (770464)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30003' - Conflict State: 0
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30004'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752179831) was more recent than the server's (1752168049). Allowing local file modifications is disabled.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168049) matches the results from the server (1752168049)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (6) matches the file version of the server (6)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (783376) does not match the file size of the server (778208)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30004' - Conflict State: 3
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SRDR30015'
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file was registered for upload.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1752179819) was more recent than the server's (1752168048). Allowing local file modifications is disabled.
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1752168048) matches the results from the server (1752168048)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file version (45) matches the file version of the server (45)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] The local file's file size (783376) does not match the file size of the server (778208)
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SRDR30015' - Conflict State: 3
+[2025-07-10 16:37:19.900] [DISPLAY] [Main ] [rline_pc] Identifying conflicts completed with success (0 total conflicts) (code: 0)
+[2025-07-10 16:37:19.917] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
+[2025-07-10 16:37:19.917] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for app 'rdr2'
+[2025-07-10 16:37:19.934] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for app 'rdr2'
+[2025-07-10 16:37:19.934] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for app 'rdr2'
+[2025-07-10 16:37:19.934] [DISPLAY] [Main ] [rline_pc] Uploading files to the cloud.
+[2025-07-10 16:37:19.934] [DISPLAY] [Main ] [rline_pc] Uploading cloud file 'Player' (Version 45)
+[2025-07-10 16:37:20.155] [DISPLAY] [Main ] [rline_pc] Cloud file uploaded: 'Player' (Version 46)
+[2025-07-10 16:37:20.155] [DISPLAY] [Main ] [rline_pc] Uploading cloud file 'ProfileSettings' (Version 15)
+[2025-07-10 16:37:20.377] [DISPLAY] [Main ] [rline_pc] Cloud file uploaded: 'ProfileSettings' (Version 16)
+[2025-07-10 16:37:20.380] [DISPLAY] [Main ] [rline_pc] Uploading cloud file 'SRDR30015' (Version 45)
+[2025-07-10 16:37:20.913] [DISPLAY] [Main ] [rline_pc] Cloud file uploaded: 'SRDR30015' (Version 46)
+[2025-07-10 16:37:20.913] [DISPLAY] [Main ] [rline_pc] Uploading cloud file 'SRDR30004' (Version 6)
+[2025-07-10 16:37:21.419] [DISPLAY] [Main ] [rline_pc] Cloud file uploaded: 'SRDR30004' (Version 7)
+[2025-07-10 16:37:21.419] [DISPLAY] [Main ] [rline_pc] Uploading files completed with success (4 files uploaded) (code: 0)
+[2025-07-10 16:37:21.436] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for app 'rdr2'
+[2025-07-10 16:37:21.436] [DISPLAY] [Main ] [cloudsaveop] Getting update files for app 'rdr2'
+[2025-07-10 16:37:21.436] [DISPLAY] [Main ] [rline_pc] Downloading files from the cloud.
+[2025-07-10 16:37:21.436] [DISPLAY] [Main ] [rline_pc] Downloading files completed with success (0 files downloaded) (code: 0)
+[2025-07-10 16:37:21.454] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for app 'rdr2'
+[2025-07-10 16:37:21.454] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for app 'rdr2'
+[2025-07-10 16:37:21.454] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files
+[2025-07-10 16:37:21.454] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files completed with success (0 files deleted) (code: 0)
+[2025-07-10 16:37:21.471] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for app 'rdr2'
+[2025-07-10 16:37:21.471] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for app 'rdr2'
+[2025-07-10 16:37:21.471] [DISPLAY] [Main ] [rline_pc] Merging cloud files on disk.
+[2025-07-10 16:37:21.471] [DISPLAY] [Main ] [rline_pc] Merging cloud files completed with success (0 files merged) (code: 0)
+[2025-07-10 16:37:21.487] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for app 'rdr2'
+[2025-07-10 16:37:21.893] [DISPLAY] [ 3472] [launcher] Shutdown requested! Forced: false
+[2025-07-10 16:37:21.894] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2025-07-10 16:37:22.002] [WARNING] [Main ] [worker] Not adding job (15) due to thread exiting
+[2025-07-10 16:37:22.021] [WARNING] [Main ] [worker] Not adding job (5) due to thread exiting
+[2025-07-10 16:37:22.529] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2025-07-10 16:37:22.577] [DISPLAY] [Main ] [svc] Stopping the background service.
